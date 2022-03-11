@@ -19,7 +19,7 @@ public class A_Variables
 
     // 2. Relevant keywords
 
-    final int cantBeChanged = 1;                                    // final
+    readonly int cantBeChanged = 1;                                 // readonly
     public int canBeSeenFromOtherClasses;                           // public
     private int canBeSeenOnlyFromThisClass;                         // private
     protected int canBeSeenFromThisClassesAndItsChildren;           // protected

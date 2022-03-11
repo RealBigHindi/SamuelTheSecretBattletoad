@@ -19,7 +19,7 @@ public class A_Basics
     // 2. this is a method
     void myMethod(int iAmOptional)
     {
-        integer_1 = integer_2:
+        integer_1 = integer_2;
     }
     // it consists of the return type [void] (which means 'no returned value'), the name [myMethod], optional parameters [(int iAmOptional)] and curly braces {which cotain the code}
 }
