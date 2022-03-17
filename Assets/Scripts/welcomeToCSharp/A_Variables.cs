@@ -2,10 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/*
- * This is a class.
- * Classes are holding variables and methods.
- **/
+
 public class A_Variables
 {
     // 1. Relevant data types
